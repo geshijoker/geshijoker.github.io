@@ -16,7 +16,7 @@ Research
 ======
 I'm doing research in the [CV Lab](http://vis-www.cs.umass.edu/?_ga=2.8406261.13071005.1539107294-754893335.1516127699) under the supervision of [Prof. Learned-Miller, Erik](https://people.cs.umass.edu/~elm/papers_by_student.html). I worked with [Prof. Zhang, Yu](https://person.zju.edu.cn/en/zhangyu) for my B.S. project.
 
-My research interests include: computer vision, machine learning, artificial intelligence and robotics. Details can be found in the research list.
+My research interests include: Computer Vision, Machine Learning, Artificial Intelligence and Robotics. Details can be found in the research list.
 
 For more info
 ------
