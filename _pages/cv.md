@@ -47,9 +47,28 @@ Publications
   
 Research
 ======
-  <ul>{% for post in site.research %}
+* Camera Rotation Estimation
+  * Supervisor: Prof. Learned-Miller
+  * March. 2018 - Present
+  * Amherst, MA
+
+* Moving Object Segmentation
+  * Supervisor: Prof. Learned-Miller
+  * March. 2018 - May. 2018
+  * Amherst, MA
+
+* Semantic Image Segmentation
+  * Supervisor: Prof. Maji
+  * Oct. 2017 - Jan. 2018
+  * Amherst, MA
+
+* Multi Source Information Based SLAM Design
+  * Supervisor: Prof. Yu Zhang
+  * Oct. 2016 - May. 2017
+  * Hangzhou, China
+  <!-- ul>{% for post in site.research %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul-->
 
 Download the PDF version here
 ------
