@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, Zhejiang University, 2017
+* M.S. in Computer Science, University of Massachusetts Amherst, 2019 (expected)
+
+Skills
+======
+* Courses: Advanced Algorithm, Data Base, Distributed System, Statistics and Probability, Uncertainty Inference, Networks.
+* Programming: Python, C/C++, Java, Matlab, SQL, Javascript, R, D3, Node.js
+* Abilities:
+  * Computer vision: TensorFlow, Caffe
+  * Machine learning: sklearn, Pandas 
+  * Robotics: ROS, SLAM
+  * System: Distributed Operating System, Database
+  * Application: Data Visualization, Programming Principles
+* Languages: Chinese(Mandarin), English
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Game AI Software Engineer Intern
+  * NetEase Huyu Incorporation, Limited
+  * Nov. 2016 - Feb. 2017
+  * Hangzhou, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Image Processing Software Engineer Intern
+  * Huiying Medical Technology (Beijing) Incorporation, Limited
+  * Jul. 2016 - Aug. 2016
+  * Beijing, China
 
 Publications
 ======
@@ -42,13 +44,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Working
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
