@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-<p style="text-decoration:underline;"><a href="/research-map.html">See a map of all the places I've given a talk!</a></p>
+<p style="text-decoration:underline;"><a href="/talk-map.html">See a map of all the places I've given a talk!</a></p>
 
-{% for post in site.research reversed %}
-  {% include archive-single-research.html %}
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
 {% endfor %}
