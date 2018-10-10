@@ -1,10 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-excerpt: "<video width="500" height="300" controls>
-  <source src="/videos/PC process.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/AfterPC.png'>"
 collection: portfolio
 ---
 
