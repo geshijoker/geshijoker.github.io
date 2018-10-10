@@ -50,10 +50,6 @@ Research
   <ul>{% for post in site.research %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-##Service and leadership
-##======
-##* News Network Center on Yunfeng Campus
 
 Download the PDF version here
 ------
