@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Automation, Zhejiang University, 2017
@@ -46,20 +47,14 @@ Publications
   
 Research
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.research %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Working
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+##Service and leadership
+##======
+##* News Network Center on Yunfeng Campus
 
 Download the PDF version here
 ------
-[CV](../files/resume.pdf)
+[CV](https://geshijoker.github.io/files/resume.pdf)
