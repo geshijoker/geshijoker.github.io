@@ -4,11 +4,11 @@ collection: working
 type: "Intern"
 permalink: /working/2016-summer-working-1
 venue: "Huiying Medical Technology (Beijing) Incorporation, Limited"
-date: 2014-01-01s
+date: 2016-08-31s
 location: "Beijing, China"
 ---
 
-Software engineer intern in Huiying Medical Technology
+Software engineer intern at Huiying Medical Technology
 
 Machine learning
 ======
