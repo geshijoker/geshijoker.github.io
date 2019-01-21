@@ -1,10 +1,10 @@
 ---
-title: "Working experience 1"
+title: "Working experience 2"
 collection: working
-type: "Undergraduate course"
-permalink: /_working/2014-spring-teaching-1
+type: "Workshop"
+permalink: /working/2015-spring-working-1
 venue: "University 1, Department"
-date: 2014-01-01s
+date: 2015-01-01
 location: "City, Country"
 ---
 
