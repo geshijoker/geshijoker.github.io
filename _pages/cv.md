@@ -41,7 +41,8 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  Currently no publications.
+  <ul>{% for post in site.publications_ %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -66,9 +67,6 @@ Research
   * Supervisor: Prof. Yu Zhang
   * Oct. 2016 - May. 2017
   * Hangzhou, China
-  <!-- ul>{% for post in site.research %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul-->
 
 Download the PDF version here
 ------
