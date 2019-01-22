@@ -12,6 +12,6 @@ author_profile: true
 {% include base_path %}
 Currently no publications.
 
-{# for post in site.publications reversed #}
-  {# include archive-single.html #}
-{# endfor #}
+{% for post in site.publications_ reversed %}
+  {% include archive-single.html %}
+{% endfor %}
