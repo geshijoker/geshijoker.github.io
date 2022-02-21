@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ge Shi"
 title_separator          : "-"
 name                     : &name "Ge Shi"
-description              : &description "Master student at Umass Amherst"
+description              : &description "Ph.D. student at UC Davis"
 url                      : https://geshijoker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "geshijoker.github.io"
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Ge Shi"
   avatar           : "profile.png"
-  bio              : "Master student in computer science at Umass Amherst, expert in computer vision."
-  location         : "Amherst, MA"
+  bio              : "Ph.D. student in computer science at UC Davis, expert in AI/ML/CV."
+  location         : "Davis, CA"
   employer         :
   googlescholar    : 
   email            : "geshijoker@gmail.com"

@@ -12,15 +12,16 @@ redirect_from:
 
 Education
 ======
+* Ph.D. student in Computer Science, University of California, Davis
+* M.S. in Computer Science, University of Massachusetts, Amherst, 2019
 * B.S. in Automation, Zhejiang University, 2017
-* M.S. in Computer Science, University of Massachusetts Amherst, 2019 (expected)
 
 Skills
 ======
-* Courses: Advanced Algorithm, Data Base, Distributed System, Statistics and Probability, Uncertainty Inference, Networks.
+* Courses: Advanced Algorithm, Data Base, Distributed System, Statistics and Probability, Uncertainty Inference, Networks, Computation Theory, Computer Vision.
 * Programming: Python, C/C++, Java, Matlab, SQL, Javascript, R, D3, Node.js
 * Abilities:
-  * Computer vision: TensorFlow, Caffe
+  * Computer vision: Pytorch, TensorFlow, Caffe
   * Machine learning: sklearn, Pandas 
   * Robotics: ROS, SLAM
   * System: Distributed Operating System, Database
@@ -48,9 +49,14 @@ Publications
   
 Research
 ======
+* Long-term study of deep learning on small datasets Davis, CA Supervisor: 
+  * Supervisor: Prof. Davidson 
+  * Jan. 2021 - present
+  * Davis, CA
+
 * Camera Rotation Estimation
   * Supervisor: Prof. Learned-Miller
-  * March. 2018 - Present
+  * March. March. 2018 - March. 2019
   * Amherst, MA
 
 * Moving Object Segmentation
