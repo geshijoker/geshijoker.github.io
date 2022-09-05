@@ -42,7 +42,8 @@ Work experience
 
 Publications
 ======
-  Currently no publications.
+  [Deep Learning for Prognosis Using Task-fMRI: A Novel Architecture and Training Scheme](https://dl.acm.org/doi/abs/10.1145/3534678.3539362) <br />
+  [Deep Learning in Neuroimaging: Overcoming Challenges With Emerging Approaches](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9200984/) <br />
   <ul>{% for post in site.publications_ %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
