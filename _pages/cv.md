@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+---
 
 
 Education
@@ -20,12 +20,12 @@ Skills
 ======
 * Courses: Advanced Algorithm, Data Base, Distributed System, Statistics and Probability, Uncertainty Inference, Networks, Computation Theory, Computer Vision.
 * Programming: Python, C/C++, Java, Matlab, SQL, Javascript, R, D3, Node.js
-* Abilities:
-  * Computer vision: Pytorch, TensorFlow, Caffe
+* Skills:
+  * Deep Learning: Pytorch, TensorFlow, Caffe
   * Machine learning: sklearn, Pandas 
   * Robotics: ROS, SLAM
   * System: Distributed Operating System, Database
-  * Application: Data Visualization, Programming Principles
+  * Application: Data Visualization, Programming Principles, AWS
 * Languages: Chinese(Mandarin), English
 
 Work experience
@@ -49,7 +49,7 @@ Publications
   
 Research
 ======
-* Long-term study of deep learning on small datasets Davis, CA Supervisor: 
+* Long-term Study of Deep Learning on Constrained Data Settings
   * Supervisor: Prof. Davidson 
   * Jan. 2021 - present
   * Davis, CA
@@ -76,4 +76,5 @@ Research
 
 Download the PDF version here
 ------
-[CV](https://geshijoker.github.io/files/resume.pdf)
+[Resume](https://geshijoker.github.io/files/resume.pdf)
+[CV](https://geshijoker.github.io/files/CV.pdf)
