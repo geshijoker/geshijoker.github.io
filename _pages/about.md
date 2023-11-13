@@ -14,15 +14,13 @@ Hi! I'm Ge, a Ph.D. student at the [Computer Science Department](https://cs.ucda
 
 Research
 ======
-I'm doing research under the supervision of [Prof. Davidson, Ian](https://faculty.engineering.ucdavis.edu/davidson/).
-I did research in the [CV Lab](http://vis-www.cs.umass.edu/?_ga=2.8406261.13071005.1539107294-754893335.1516127699) working with [Prof. Learned-Miller, Erik](https://people.cs.umass.edu/~elm/papers_by_student.html). I worked with [Prof. Zhang, Yu](https://person.zju.edu.cn/en/zhangyu) for my B.S. project.
+I'm doing research under the supervision of [Prof. Davidson, Ian](https://faculty.engineering.ucdavis.edu/davidson/). I did research in the [CV Lab](http://vis-www.cs.umass.edu/?_ga=2.8406261.13071005.1539107294-754893335.1516127699) working with [Prof. Learned-Miller, Erik](https://people.cs.umass.edu/~elm/papers_by_student.html) on my M.S. project. I worked with [Prof. Zhang, Yu](https://person.zju.edu.cn/en/zhangyu) on my B.S. project.
 
-My research interests include: Computer Vision, Machine Learning, Artificial Intelligence and Robotics. Details can be found in the research list.
+My research interests include: Computer Vision, Machine Learning, Artificial Intelligence, Data Mining and Robotics. My area of expertise is explainable AI and transparent models. Details can be found in the research list.
 
 Download the PDF version of Resume/CV
 ------
 [Resume](https://geshijoker.github.io/files/resume.pdf)
-
 [CV](https://geshijoker.github.io/files/CV.pdf)
 
 Publications
@@ -35,6 +33,7 @@ Publications
 {% include base_path %}
   [Deep Learning for Prognosis Using Task-fMRI: A Novel Architecture and Training Scheme](https://dl.acm.org/doi/abs/10.1145/3534678.3539362) <br />
   [Deep Learning in Neuroimaging: Overcoming Challenges With Emerging Approaches](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9200984/) <br />
+  [Data augmentation with Mixup: Enhancing performance of a functional neuroimaging-based prognostic deep learning classifier in recent onset psychosis](https://www.sciencedirect.com/science/article/pii/S2213158222002790) <br />
 
 {% for post in site.publications_ reversed %}
   {% include archive-single.html %}
