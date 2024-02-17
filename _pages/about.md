@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ======
-Hi! I'm Ge, a Ph.D. student at the [Computer Science Department](https://cs.ucdavis.edu/) in [University of California, Davis](https://www.ucdavis.edu/). I received my M.S. degree in computer science at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) in [University of Massachusetts, Amherst](https://www.umass.edu/). I received my B.S. degree in Automation from [Zhejiang University](http://www.zju.edu.cn/english/).
+Hi! I'm Ge, a Ph.D. candidate at the [Computer Science Department](https://cs.ucdavis.edu/) in [University of California, Davis](https://www.ucdavis.edu/). I received my M.S. degree in computer science at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) in [University of Massachusetts, Amherst](https://www.umass.edu/). I received my B.S. degree in Automation from [Zhejiang University](http://www.zju.edu.cn/english/).
 
 Research
 ======
