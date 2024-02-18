@@ -49,7 +49,7 @@ Researches
 
   [Deep Learning in Neuroimaging: Overcoming Challenges With Emerging Approaches](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9200984/) <br />
   
-  [Moving Object Proposals with Deep Learned Optical Flow for Video Object Segmentation](https://geshijoker.github.io/files/Moving_Object_proposals_with_Deep_Learned_Optical_Flow_for_Video_Object_Segmentation.pdf.pdf) <br />
+  [Moving Object Proposals with Deep Learned Optical Flow for Video Object Segmentation](https://arxiv.org/abs/2402.08882) <br />
 
   [Semantic Image Segmentation with PSPNet and Dense CRF](https://geshijoker.github.io/files/Semantic_Image_Segmentation_with_PSPNet_and_Dense_CRF.pdf) <br />
 
