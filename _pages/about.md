@@ -53,6 +53,6 @@ Researches
 
   [Semantic Image Segmentation with PSPNet and Dense CRF](https://geshijoker.github.io/files/Semantic_Image_Segmentation_with_PSPNet_and_Dense_CRF.pdf) <br />
 
-{% for post in site.publications_ reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
