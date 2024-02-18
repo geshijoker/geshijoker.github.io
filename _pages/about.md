@@ -23,7 +23,7 @@ Download the PDF version of
 [Resume](https://geshijoker.github.io/files/resume.pdf) \
 [CV](https://geshijoker.github.io/files/CV.pdf)
 
-Publications
+Researches
 ------
 
 {% if author.googlescholar %}
@@ -43,13 +43,15 @@ Publications
 
   [SIG: Rethinking Baseline of Integrated Gradients from the Perspective of Shapley Value](https://arxiv.org/abs/2310.04821) <br />
 
+  [Data augmentation with Mixup: Enhancing performance of a functional neuroimaging-based prognostic deep learning classifier in recent onset psychosis](https://www.sciencedirect.com/science/article/pii/S2213158222002790) <br />
+
   [Deep Learning for Prognosis Using Task-fMRI: A Novel Architecture and Training Scheme](https://dl.acm.org/doi/abs/10.1145/3534678.3539362) <br />
 
   [Deep Learning in Neuroimaging: Overcoming Challenges With Emerging Approaches](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9200984/) <br />
-
-  [Data augmentation with Mixup: Enhancing performance of a functional neuroimaging-based prognostic deep learning classifier in recent onset psychosis](https://www.sciencedirect.com/science/article/pii/S2213158222002790) <br />
   
-  [Moving Object Proposals with Deep Learned Optical Flow for Video Object Segmentation](https://arxiv.org/abs/2402.08882) <br />
+  [Moving Object Proposals with Deep Learned Optical Flow for Video Object Segmentation](https://geshijoker.github.io/files/Moving_Object_proposals_with_Deep_Learned_Optical_Flow_for_Video_Object_Segmentation.pdf.pdf) <br />
+
+  [Semantic Image Segmentation with PSPNet and Dense CRF](https://geshijoker.github.io/files/Semantic_Image_Segmentation_with_PSPNet_and_Dense_CRF.pdf) <br />
 
 {% for post in site.publications_ reversed %}
   {% include archive-single.html %}
