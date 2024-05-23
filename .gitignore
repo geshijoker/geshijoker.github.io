@@ -3,5 +3,7 @@
 _pages/publications.md
 _pages/cv.md
 _pages/work.md
-_working/*
-_research/*
+_publications/
+_working/
+_research/
+_portfolio/

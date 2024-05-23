@@ -170,9 +170,9 @@ kramdown:
 
 # Collections
 collections:
-  research:
-    output: true
-    permalink: /:collection/:path/
+  # research:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -195,14 +195,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _research
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # # _research
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
