@@ -16,7 +16,7 @@ Research
 ======
 For my Ph.D., I'm doing research under the supervision of [Prof. Davidson, Ian](https://faculty.engineering.ucdavis.edu/davidson/). I joined Machine Learning and Analytics Group led by [Prof. Mahoney, Michael](https://crd.lbl.gov/divisions/scidata/mla/staff/michael-mahoney/) doing research in loss landscapes and its applications. I did research in the [CV Lab](http://vis-www.cs.umass.edu/?_ga=2.8406261.13071005.1539107294-754893335.1516127699) working with [Prof. Learned-Miller, Erik](https://people.cs.umass.edu/~elm/papers_by_student.html) on my M.S. project (Video Stabilization via Super Congealing). I worked with [Prof. Zhang, Yu](https://person.zju.edu.cn/en/zhangyu) on my B.S. project (SLAM: Simultaneous Localization and Mapping).
 
-My research interests include: Computer Vision, Machine Learning, Artificial Intelligence, Data Mining and Robotics. My area of expertise is explainable AI and transparent models. Details can be found in the research list.
+My research interests include: Machine Learning, Artificial Intelligence, Vision-Language Dual Models, and Large Language Models. My area of expertise is explainable AI and transparent models. Details about my research and projects can be found in the resume below.
 
 Download the PDF version of
 ------
@@ -31,15 +31,17 @@ Researches
 {% endif %}
 
 {% include base_path %}
-  (Wait!) CRF-transplant: Post-hoc Processing Module Transplant Guarantees Improvements <br />
+  <!-- (Wait!) CRF-transplant: Post-hoc Processing Module Transplant Guarantees Improvements <br /> -->
 
-  (Wait!) Evaluating Loss Landscapes from a Topology Perspective <br />
+  (Wait!) From Categories to Spectrums: Improved PiliPrompt for Ordinal Classification. <br />
 
-  (Wait!) HALE: Hierarchical Aggregation of Local Explanations <br />
+  (Wait!) PoliPrompt: A High-Performance Cost-Effective LLM-Based Text Classification Framework for Political Science <br />
 
-  (Wait!) Beyond Trial and Error: Unraveling Neural Networks' Insights in Scientific Knowledge Discovery through Bivariate Optimization <br />
+  (Wait!) HALE: Hierarchical Aggregation of Local Linear Additive Explanations <br />
 
   (Wait!) LossLens: Diagnostics for Machine Learning Models through Loss Landscape Visual Analytics <br />
+
+  [ChaosMining: A Benchmark to Evaluate Post-Hoc Local Attribution Methods in Low SNR Environments](https://arxiv.org/abs/2406.12150) <br />
 
   [SIG: Rethinking Baseline of Integrated Gradients from the Perspective of Shapley Value](https://arxiv.org/abs/2310.04821) <br />
 
