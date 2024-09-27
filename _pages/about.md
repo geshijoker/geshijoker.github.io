@@ -20,7 +20,7 @@ My research interests include: Machine Learning, Artificial Intelligence, Vision
 
 Download the PDF version of
 ------
-[Resume](https://geshijoker.github.io/files/resume.pdf) \
+[Resume](https://geshijoker.github.io/files/resume.pdf)
 
 Researches
 ------
