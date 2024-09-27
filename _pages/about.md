@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ======
-Hi! I'm Ge, a Ph.D. candidate at the [Computer Science Department](https://cs.ucdavis.edu/) in [University of California, Davis](https://www.ucdavis.edu/). I received my M.S. degree in computer science at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) in [University of Massachusetts, Amherst](https://www.umass.edu/). I received my B.S. degree in Automation from [Zhejiang University](http://www.zju.edu.cn/english/).
+Hi! I'm Ge. I got my Ph.D. degree in [Computer Science](https://cs.ucdavis.edu/) at University of California, Davis. I received my M.S. degree in computer science from the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at University of Massachusetts, Amherst. I received my B.S. degree in Automation from the [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm) at Zhejiang University.
 
 Research
 ======
@@ -21,7 +21,6 @@ My research interests include: Machine Learning, Artificial Intelligence, Vision
 Download the PDF version of
 ------
 [Resume](https://geshijoker.github.io/files/resume.pdf) \
-[CV](https://geshijoker.github.io/files/CV.pdf)
 
 Researches
 ------
@@ -33,13 +32,15 @@ Researches
 {% include base_path %}
   <!-- (Wait!) CRF-transplant: Post-hoc Processing Module Transplant Guarantees Improvements <br /> -->
 
-  (Wait!) From Categories to Spectrums: Improved PiliPrompt for Ordinal Classification. <br />
+  (Releasing Soon) From Categories to Spectrums: Improved PiliPrompt for Ordinal Classification. <br />
 
-  (Wait!) PoliPrompt: A High-Performance Cost-Effective LLM-Based Text Classification Framework for Political Science <br />
+  (Releasing Soon) HALE: Hierarchical Aggregation of Local Linear Additive Explanations <br />
 
-  (Wait!) HALE: Hierarchical Aggregation of Local Linear Additive Explanations <br />
+  (Releasing Soon) Visualizing Loss Functions as Topological Landscape Profiles <br />
 
-  (Wait!) LossLens: Diagnostics for Machine Learning Models through Loss Landscape Visual Analytics <br />
+  (Releasing Soon) LossLens: Diagnostics for Machine Learning Models through Loss Landscape Visual Analytics <br />
+
+  [PoliPrompt: A High-Performance Cost-Effective LLM-Based Text Classification Framework for Political Science](https://arxiv.org/pdf/2409.01466) <br />
 
   [ChaosMining: A Benchmark to Evaluate Post-Hoc Local Attribution Methods in Low SNR Environments](https://arxiv.org/abs/2406.12150) <br />
 
@@ -50,10 +51,6 @@ Researches
   [Deep Learning for Prognosis Using Task-fMRI: A Novel Architecture and Training Scheme](https://dl.acm.org/doi/abs/10.1145/3534678.3539362) <br />
 
   [Deep Learning in Neuroimaging: Overcoming Challenges With Emerging Approaches](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9200984/) <br />
-  
-  [Moving Object Proposals with Deep Learned Optical Flow for Video Object Segmentation](https://arxiv.org/abs/2402.08882) <br />
-
-  [Semantic Image Segmentation with PSPNet and Dense CRF](https://geshijoker.github.io/files/Semantic_Image_Segmentation_with_PSPNet_and_Dense_CRF.pdf) <br />
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
